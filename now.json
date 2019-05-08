@@ -1,10 +1,1 @@
-{
-  "version": 2,
-  "name": "micro-rss-parser",
-  "alias": [
-    "parser.rss.micro.t-fk.no"
-  ],
-  "builds": [
-    {"src": "index.js", "use": "@now/node"}
-  ]
-}
+{}
